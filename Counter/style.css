@@ -1,0 +1,21 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 125%;
+}
+
+h1{
+    text-align: center;
+}
+
+#container{
+    text-align: center;
+}
+
+button{
+    display: inline-block;
+    justify-content: center;
+    background-color: #7b38d8;
+    color: #ffffff;
+    text-align: center;
+    
+}
