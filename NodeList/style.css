@@ -1,0 +1,14 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 125%;
+}
+
+.myBtn{
+   font-size: 4rem;
+   margin: 10px;
+   border: none;
+   border-radius: 5px;
+   padding: 10px 15px;
+   background-color: hsl(271, 76%, 60%);
+   color: white;
+}

@@ -1,0 +1,18 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 125%;
+}
+
+h1{
+    text-align: center;
+}
+
+#myBox{
+    width: 300px;
+    height: 250px;
+    background-color: green;
+    font-size: 4.5rem;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+}
